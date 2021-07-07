@@ -13,3 +13,6 @@ bs4
 essentia
 streamlit
 numpy 
+nbserverproxy
+streamlit
+jupyter-server-proxy
