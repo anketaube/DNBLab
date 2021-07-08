@@ -15,4 +15,3 @@ streamlit
 numpy 
 nbserverproxy
 streamlit
-nwget
