@@ -16,8 +16,6 @@ numpy
 nbserverproxy
 streamlit
 wget
-urllib
-urllister
 zipfile
 urllib2
 os
