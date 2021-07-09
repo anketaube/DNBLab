@@ -16,8 +16,3 @@ numpy
 nbserverproxy
 streamlit
 wget
-zipfile
-urllib2
-os
-time
-pickle
