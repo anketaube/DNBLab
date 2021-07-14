@@ -17,4 +17,4 @@ nbserverproxy
 streamlit
 wget
 ipywidgets
-sys
+
