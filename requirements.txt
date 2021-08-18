@@ -18,3 +18,7 @@ streamlit
 wget
 ipywidgets
 tqdm
+voila
+matplotlib
+jupyterlab
+nltk
