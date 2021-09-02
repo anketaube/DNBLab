@@ -24,4 +24,3 @@ jupyterlab
 nltk
 ipython
 librosa
-sndfile
