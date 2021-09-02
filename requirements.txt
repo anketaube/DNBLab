@@ -25,5 +25,3 @@ nltk
 os
 IPython.display
 librosa
-sys
-libfmp.b
