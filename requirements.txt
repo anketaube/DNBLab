@@ -22,6 +22,5 @@ voila
 matplotlib
 jupyterlab
 nltk
-os
 IPython.display
 librosa
