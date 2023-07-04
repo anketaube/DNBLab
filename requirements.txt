@@ -26,3 +26,4 @@ ipython
 librosa
 PyPDF2
 selenium
+webdriver_manager
