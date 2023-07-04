@@ -27,3 +27,4 @@ librosa
 PyPDF2
 selenium
 webdriver_manager
+msedge-selenium-tools
