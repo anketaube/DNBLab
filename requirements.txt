@@ -30,3 +30,4 @@ webdriver_manager
 msedge-selenium-tools
 WordCloud
 Image
+io
