@@ -33,3 +33,4 @@ Image
 langchain
 openai
 datetime
+unstructured
