@@ -35,3 +35,4 @@ openai
 datetime
 unstructured
 chromadb
+tiktoken
