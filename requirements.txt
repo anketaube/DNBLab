@@ -34,3 +34,4 @@ langchain
 openai
 datetime
 unstructured
+chromadb
