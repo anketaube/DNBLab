@@ -41,3 +41,4 @@ jupyter-ai>=1.0,<2.0
 jupyter-ai
 gpt4all
 boto3
+jupyter-ai-magics
