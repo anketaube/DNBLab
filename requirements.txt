@@ -42,3 +42,4 @@ jupyter-ai
 gpt4all
 boto3
 jupyter-ai-magics
+jupyter_contrib_nbextensions
