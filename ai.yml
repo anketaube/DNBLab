@@ -10,6 +10,6 @@
     - requests
     - transformers
   environment:
-    JUPYTER_AI_API_KEY: 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
+    JUPYTER_AI_API_KEY: API KEY
   script:
     - python setup_config.py HuggingFaceH4/zephyr-7b-gemma-v0.1
