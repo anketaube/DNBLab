@@ -1,0 +1,15 @@
+- name: jupyter-ai-language-model
+  channels:
+    - defaults
+  dependencies:
+    - python=3.8
+    - pip
+    - jupyterlab
+    - numpy
+    - pandas
+    - requests
+    - transformers
+  environment:
+    JUPYTER_AI_API_KEY: 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
+  script:
+    - python setup_config.py HuggingFaceH4/zephyr-7b-gemma-v0.1
