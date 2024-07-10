@@ -1,0 +1,2 @@
+#!/bin/bash
+exec jupyter notebook --NotebookApp.default_url=/EFA_Wolke.ipynb
